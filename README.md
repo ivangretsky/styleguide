@@ -1,1 +1,1 @@
-# [Правила написания CSS и HTML при разработки в dxlab](https://github.com/ivangretsky/styleguide/wiki)
+# [Принципы и правила разработки в dxlab - Wiki](https://github.com/ivangretsky/styleguide/wiki)
